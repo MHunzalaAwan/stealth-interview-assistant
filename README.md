@@ -1,6 +1,6 @@
 # ✦ Gemini Interview Copilot - Real-Time AI HUD Overlay
 
-A real-time AI interview assistant and Chrome Extension powered by **Gemini 2.5 Flash**. It listens to live interview speech streams during technical, system design, or behavioral interviews and displays instant, unobtrusive HUD talking points, STAR frameworks, metrics, and code snippets directly over any web meeting tool.
+A real-time AI interview assistant and Chrome Extension powered by **Gemini 3.6 Flash**. It listens to live interview speech streams during technical, system design, or behavioral interviews and displays instant, unobtrusive HUD talking points, STAR frameworks, metrics, and code snippets directly over any web meeting tool.
 
 ---
 
@@ -8,7 +8,7 @@ A real-time AI interview assistant and Chrome Extension powered by **Gemini 2.5 
 
 - **Universal Meeting Tool Support**: Works seamlessly on Google Meet, Microsoft Teams, Zoom, Slack Huddles, Cisco Webex, LeetCode, HackerRank, Karat, and CoderPad.
 - **Real-Time Speech Stream**: Listens to interviewer questions via browser Speech-to-Text streaming with instant transcription.
-- **Gemini 2.5 Flash Engine**: Returns high-impact, bulleted STAR responses, trade-offs, and key metrics in under 1 second.
+- **Gemini 3.6 Flash Engine**: Returns high-impact, bulleted STAR responses, trade-offs, and key metrics in under 1 second.
 - **Draggable & Transparent HUD**: Overlay with customizable opacity slider, click-through mode, and quick hide shortcuts so it stays invisible to screen shares.
 - **Candidate Context Integration**: Integrates your target role, company, and resume highlights so Gemini personalizes every suggestion with your real metrics.
 - **Chrome Extension (Manifest V3)**: Bundled standalone extension with a 1-click ZIP exporter for easy Chrome installation.
