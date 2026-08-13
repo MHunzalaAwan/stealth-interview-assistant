@@ -157,9 +157,3 @@ The application will launch locally at `http://localhost:3000`.
 MIT License
 
 ---
-
-## 💡 Recommended GitHub Repository Setup
-
-- **Repo Name**: `stealth-interview-assistant`
-- **Repo Description**: *"Real-time AI interview copilot & Chrome extension overlay powered by Gemini 3.6 Flash. Provides instant STAR answers, system design points, and code snippets during Google Meet, Zoom, and Teams calls."*
-- **Topics/Tags**: `gemini-ai`, `interview-copilot`, `chrome-extension-manifest-v3`, `speech-to-text`, `google-meet`, `zoom`, `microsoft-teams`, `react`, `typescript`, `tailwindcss`
