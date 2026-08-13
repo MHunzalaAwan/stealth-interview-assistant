@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Interview Copilot Chrome Extension",
+  "description": "Real-time AI interview assistant Chrome extension overlay powered by Gemini Flash to listen to interview questions and display instant talking points, STAR answers, and suggestions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
